@@ -73,6 +73,8 @@ export default function App() {
       >
         <Text className='text-white text-lg font-bold'>Reset Game</Text>
       </TouchableOpacity>
+
+      <Text className='text-sm text-gray-500 mt-4'>Made with ❤️ by Abhishek Bisht</Text>
     </SafeAreaView>
   )
 }
